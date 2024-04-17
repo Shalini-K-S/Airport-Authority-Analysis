@@ -41,3 +41,5 @@ The analysis results are summarized as follows:
 - Total flights in January is the highest .
 
 ## Dashboard
+![Screenshot (28)](https://github.com/Shalini-K-S/Airport-Authority-Analysis/assets/163270221/96e14767-6ac0-4e39-a03d-120ae117eef7)
+![Screenshot (26)](https://github.com/Shalini-K-S/Airport-Authority-Analysis/assets/163270221/66bccc44-cf5c-4543-9102-538f97fccf65)
